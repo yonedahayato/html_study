@@ -38,3 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # My Page
 [lesson1](html5&css3/lesson1.html)
+[namari](namari-by-shapingrain/index.html)
